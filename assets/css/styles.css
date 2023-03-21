@@ -1,0 +1,17 @@
+/* tres formas de colocar um estilo en um elemento */
+
+
+/* todos los parrafos con letra azul */
+p {
+    color: blue;
+}
+
+/* solo los parrafos con clase "verde" con letra verde */
+.verde {
+    color: green;
+}
+
+/* solo el parrafo con id "rojo" con letra roja */
+#parraforojo {
+    color: red;
+}
